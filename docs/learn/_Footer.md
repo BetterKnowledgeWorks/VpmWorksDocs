@@ -1,0 +1,1 @@
+Copyright 2025 All rights reserved by Better Knowledge Works, LLC
