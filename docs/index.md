@@ -4,7 +4,7 @@ Welcome to VPM Works! - Your guide to Visual Project Management and the VPM Work
 
 ## What You'll Find Here
 
-- **[Learn VPM](LearnVpm/)** - Learn VPM methodology and best practices
+- **[Learn VPM](learn/)** - Learn VPM methodology and best practices
 - **[User Manual](manual/)** - How to use VPM Works! software
 - **[Articles](articles/)** - Insights, tips, and deep dives
 - **[Videos](videos/)** - Video tutorials and demonstrations
